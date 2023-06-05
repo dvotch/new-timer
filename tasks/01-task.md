@@ -17,7 +17,7 @@
 ## Требования
 1. Компонента таймер должна быть [мемоизирована](https://ru.reactjs.org/docs/react-api.html#reactmemo)
 2. Обработчики событий (коллбеки) должен быть [мемоизирован](https://ru.reactjs.org/docs/hooks-reference.html#usecallback)
-3. Обязательное использование useSate
+3. Обязательное использование useState
 4. Форматирование времени тоже должно быть мемоизировано
 5. Используем Styled Components (MUI)
 6. Подключенный prettier, eslint и публикация на github pages.
